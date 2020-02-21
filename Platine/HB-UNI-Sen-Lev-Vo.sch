@@ -5,12 +5,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "HB-Sen-Multi"
-Date "2019-03-11"
-Rev "V1.0.1"
+Title "HB-UNI-Sen-Lev-Vo"
+Date "2020-02-01"
+Rev "V1.0.3"
 Comp ""
 Comment1 "© Silvio Sternitzke"
-Comment2 "Multi Sensoren PBC"
+Comment2 "Sensoren PBC - Votronic-Sonden"
 Comment3 ""
 Comment4 ""
 $EndDescr
