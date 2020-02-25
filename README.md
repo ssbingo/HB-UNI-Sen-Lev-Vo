@@ -25,9 +25,9 @@ Sensor für Voltronic-Sonden
 
 ## Schaltplan
 
-![pic](Images/*.png)
+![pic](Images/HB-UNI-Sen-Lev-Vo_Schaltplan.png)
 
-[:arrow_right: Schaltplan](Images/*.pdf)
+[:arrow_right: Schaltplan](Images/HB-UNI-Sen-Lev-Vo_Schaltplan.pdf)
 
 
 ## Platine
