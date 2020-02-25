@@ -25,9 +25,9 @@ Sensor für Voltronic-Sonden
 
 ## Schaltplan
 
-![pic](Images/*.png)
+![pic](Images/HB-UNI-Sen-Lev-Vo_Schaltplan.png)
 
-[:arrow_right: Schaltplan](Images/*.pdf)
+[:arrow_right: Schaltplan](Images/HB-UNI-Sen-Lev-Vo_Schaltplan.pdf)
 
 
 ## Platine
@@ -66,7 +66,7 @@ In dieses bzw. dessen Struckture müssen die Dateien aus dem Verzeichniss [AddOn
 ## Benötige Libraries
 
   - [AskSinPP](https://github.com/pa-pa/AskSinPP)
-   	- sowie die dort aufgeführten [zusätzlichen Bibliotheken](https://github.com/pa-pa/AskSinPP#required-additional-arduino-libraries)
+   - sowie die dort aufgeführten [zusätzlichen Bibliotheken](https://github.com/pa-pa/AskSinPP#required-additional-arduino-libraries)
 
 
 ## Lizenz
