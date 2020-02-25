@@ -8,11 +8,11 @@ Sensor für Voltronic-Sonden
 
 ## Bilder
 
-![pic](Images/*.jpg)
+![pic](Images/Sonde_15_50_K.jpg)
 
-![pic](Images/*.jpg)
+![pic](Images/Tank_mit_Sonde_1.JPG)
 
-![pic](Images/*.jpg)
+![pic](Images/Tank_mit_Sonde_2.JPG)
 
 
 ## Konfiguration
